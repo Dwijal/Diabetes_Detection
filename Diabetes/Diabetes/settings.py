@@ -25,7 +25,7 @@ SECRET_KEY = 'k2%)=-69reqki5@@@-v3&akn7w$nq1qbpv3ozj*pgl)=95tsrn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','diabetes1detection.herokuapp.com']
 
 
 # Application definition
